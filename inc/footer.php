@@ -35,8 +35,8 @@
 				<div class="col_1_of_4 span_1_of_4">
 					<h4>Contact</h4>
 						<ul>
-							<li><span>+88-01713458599</span></li>
-							<li><span>+88-01813458552</span></li>
+							<li><span>0726720085</span></li>
+							<li><span>0726720085</span></li>
 						</ul>
 						<div class="social-icons">
 							<h4>Follow Us</h4>
@@ -51,7 +51,7 @@
 				</div>
 			</div>
 			<div class="copy_right">
-				<p>Training with live project &amp; All rights Reseverd </p>
+				<p>blair-ventures &amp; All rights Reseverd </p>
 		   </div>
      </div>
     </div>

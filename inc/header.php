@@ -39,6 +39,7 @@ $cmr = new Customer();
 <script type="text/javascript" src="js/nav-hover.js"></script>
 <link href='http://fonts.googleapis.com/css?family=Monda' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Doppio+One' rel='stylesheet' type='text/css'>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 <script type="text/javascript">
   $(document).ready(function($){
     $('#dc_mega-menu-orange').dcMegaMenu({rowItems:'4',speed:'fast',effect:'fade'});
@@ -49,7 +50,7 @@ $cmr = new Customer();
   <div class="wrap">
     <div class="header_top">
       <div class="logo">
-        <a href="index.php"><img src="images/logo.png" alt="" /></a>
+        <a href="index.php"><img src="images/logo4.jpg" alt="" class="h-20"/></a>
       </div>
         <div class="header_top_right">
           <div class="search_box">
